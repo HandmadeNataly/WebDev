@@ -1,0 +1,30 @@
+   .menu-wrapper {
+      text-align: center;
+    }
+    .menu-item {
+      color:black;
+      text-decoration: underline;
+      font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+      font-size: 30px;
+      font-weight: bold;
+       }
+       .menu-text {
+      color:black;
+      font-family:"Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+      font-size: 25px;
+      font-weight: bold;
+       }
+        .menu-text1 {
+      color:black;
+      font-family: "Times New Roman", monospace;
+      font-size: 25px;
+      font-weight: bold;
+       }
+    .lw { font-size: 60px; }
+
+     a:hover {
+    color: #fff; 
+    background: #e24486; 
+   }
+
+   
